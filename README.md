@@ -1,5 +1,5 @@
-`                                                                                        **Toast, Inc.**
-`**Abstract**
+                                                         **Toast, Inc.**
+**Abstract**
 This document provides a comprehensive overview of the Business Intelligence project conducted for Toast, Inc., an IT software company specializing in cloud-based restaurant management software. The project aimed to address operational challenges through strategic data analysis and visualization. Key components include the identification of challenges, the methodology employed, setup instructions, and insightful data visualizations leading to strategic recommendations for Toast's future operations.
 Introduction
 Toast, Inc., headquartered in Boston, MA, specializes in cloud-based restaurant management software, with Android OS as the primary POS system. Despite being the third-fastest-growing technology company in 2019, Toast faced challenges with their dated POS system, hindering data visualization capabilities. This document introduces a Business Intelligence project conducted to overcome these challenges and enhance operational efficiency.
