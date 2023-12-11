@@ -3,8 +3,10 @@
 This document provides a comprehensive overview of the Business Intelligence project conducted for Toast, Inc., an IT software company specializing in cloud-based restaurant management software. The project aimed to address operational challenges through strategic data analysis and visualization. Key components include the identification of challenges, the methodology employed, setup instructions, and insightful data visualizations leading to strategic recommendations for Toast's future operations.
 Introduction
 Toast, Inc., headquartered in Boston, MA, specializes in cloud-based restaurant management software, with Android OS as the primary POS system. Despite being the third-fastest-growing technology company in 2019, Toast faced challenges with their dated POS system, hindering data visualization capabilities. This document introduces a Business Intelligence project conducted to overcome these challenges and enhance operational efficiency.
+
 **Problem Statement**
 Toast's rapid growth lacked comprehensive insights into key factors like customer orders, menu performance, and employee efficiency. Benchmarking against industry competitors and adapting to market changes became difficult. The reliance on inherited tools exposed vulnerabilities during the COVID-19 pandemic. Operational efficiency, pricing strategies, and customer base expansion were hampered without data-driven insights. The main challenge was in making informed strategic decisions for the company's future.
+
 **Methodology**
 The project employed a methodology involving the implementation of Business Intelligence tools, specifically Incorta, for data visualization and analysis. The challenges faced, including data sharding, lack of real-time insights, and operational inefficiencies, were systematically addressed through the integration of BI tools, providing a centralized and resilient system.
 
